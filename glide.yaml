@@ -1,0 +1,5 @@
+package: github.com/eknkc/request
+import:
+- package: github.com/google/go-querystring
+  subpackages:
+  - query
